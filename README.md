@@ -77,11 +77,7 @@ The output is a functional music player where users can:
 
 ## Live Demo
 
- Add your deployed link here after GitHub Pages is enabled:
-
-https://your-username.github.io/music-player/
-
----
+https://divya-2006-code.github.io/Music-Player---Task-3/
 
 ##  Conclusion
 
